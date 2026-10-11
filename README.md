@@ -1,2 +1,2 @@
 Дарина 
-<a href="https://example.com" target="_blank">Ссылка на новую вкладку</a>
+Я старался 
